@@ -1,4 +1,8 @@
 # irenesproject
+
+LINK TO REPL:
+https://replit.com/@IreneKandio/FriendsWinners
+
 main.py
 from flask import Flask, render_template
 
